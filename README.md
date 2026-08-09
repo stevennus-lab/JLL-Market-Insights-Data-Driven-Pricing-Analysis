@@ -72,20 +72,20 @@ far more than renovation finish in this dataset.
 
 ## Business recommendations for JLL
 
-**District-tiered pricing.** District accounts for the largest, most consistent price gaps in both models. A
+**1. District-tiered pricing.** District accounts for the largest, most consistent price gaps in both models. A
 tiered pricing framework anchored on distance-from-Xihu-equivalent discounts (Xihu the ceiling, Fuyang and Linan
 the floor) would give agents a defensible, data-backed starting point for listings rather than relying on
 comparables alone.
 
-**Lead with bathrooms, bedrooms, and elevator access in listings.** These are the property-level features with
+**2. Lead with bathrooms, bedrooms, and elevator access in listings.** These are the property-level features with
 the largest, most reliable positive effects on price and are directly actionable in how listings are marketed
 and staged.
 
-**Use OLS for client-facing pricing conversations, Random Forest for internal accuracy.** OLS gives agents a
+**3. Use OLS for client-facing pricing conversations, Random Forest for internal accuracy.** OLS gives agents a
 coefficient they can explain to a client ("this district costs you ¥X relative to the baseline"), while the
 Random Forest (R² of 0.77-0.82) can serve as JLL's internal estimator for day-to-day valuation.
 
-**Don't lead marketing on renovation level.** Contrary to intuition, renovation grade isn't a statistically
+**4. Don't lead marketing on renovation level.** Contrary to intuition, renovation grade isn't a statistically
 significant price driver once location and property characteristics are accounted for. Marketing spend is
 better directed at district positioning and core property features than renovation narratives.
 

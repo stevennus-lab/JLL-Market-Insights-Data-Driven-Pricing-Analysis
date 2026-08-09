@@ -1,0 +1,54 @@
+Feature,Importance
+Floor Area,0.4367
+Xihu,0.0778
+Building Height,0.071
+Binjiang,0.0512
+Shangcheng,0.0494
+Gongshu,0.0435
+Last Transaction Duration,0.0372
+Popularity,0.0258
+Units per Floor,0.0219
+Yuhang,0.0166
+Rooms,0.016
+Mortgage Info,0.0154
+Residential,0.0146
+Bathrooms,0.0142
+Xiaoshan,0.011
+Elevators,0.0098
+Linan,0.0064
+Slab Building,0.0059
+Luxury Renovation,0.0056
+High Floor,0.004
+Living Rooms,0.004
+Reinforced Concrete,0.004
+Has Elevator,0.0038
+Low Floor,0.0035
+Shared Ownership,0.0034
+Flat,0.0034
+Slab-Tower Combo,0.003
+Staircase,0.003
+Unfinished,0.0029
+Simple Renovation,0.0029
+Qiantang,0.0027
+Frame Structure,0.0025
+Under 2 Years,0.0025
+Linping,0.0025
+Brick-Concrete,0.0025
+Tower Building,0.0024
+Mixed Structure,0.0023
+No Elevator,0.0019
+Over 5 Years,0.0018
+Kitchens,0.0017
+Viewing Available,0.0016
+Viewing After Work,0.0014
+Purchased Public Housing,0.0013
+Duplex,0.0012
+Viewing Weekends Only,0.0011
+Viewing with Tenant,0.0011
+Staggered Floor,0.001
+Steel Structure,0.0003
+Detached House,0.0003
+Relocation Property,0.0001
+Private Property,0.0
+Brick-Wood,0.0
+Loft,0.0

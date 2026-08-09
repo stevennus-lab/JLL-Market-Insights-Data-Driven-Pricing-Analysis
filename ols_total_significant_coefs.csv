@@ -1,0 +1,32 @@
+feature,coef,pvalue
+Xihu,382.152,0.0
+Binjiang,276.441,0.0
+Shangcheng,263.588,0.0
+Gongshu,262.138,0.0
+Yuhang,136.531,0.0
+Residential,115.254,0.0
+Xiaoshan,94.379,0.0
+Bathrooms,64.599,0.0
+Duplex,60.209,0.0
+Qiantang,41.272,0.0
+Staircase,32.006,0.0
+Flat,25.551,0.0
+Has Elevator,24.96,0.0
+Under 2 Years,23.212,0.0
+Rooms,19.847,0.0
+Staggered Floor,19.607,0.05
+Purchased Public Housing,11.008,0.039
+Building Height,3.365,0.0
+Floor Area,2.667,0.0
+Mortgage Info,0.305,0.0
+Popularity,-0.201,0.0
+Units per Floor,-0.62,0.0
+High Floor,-12.752,0.0
+Kitchens,-33.028,0.0
+Linan,-48.878,0.0
+Relocation Property,-49.909,0.0
+Reinforced Concrete,-57.122,0.038
+Mixed Structure,-60.229,0.03
+Frame Structure,-61.827,0.026
+Brick-Concrete,-66.52,0.016
+Steel Structure,-117.511,0.0
